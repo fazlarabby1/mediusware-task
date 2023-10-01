@@ -27,7 +27,7 @@ const Problem2 = () => {
         <div className="container">
             <div className="row justify-content-center mt-5">
                 <h4 className='text-center text-uppercase mb-5'>Problem-2</h4>
-                <h4 className='text-center text-uppercase mb-5'>I haven't worked with Sass. If you give me some time I will be able to find out and complete the task.</h4>
+                <h4 className='text-center text-uppercase mb-5'>I haven't worked with Swagger and Sass. If you give me some time I will be able to find out and complete the task.</h4>
 
                 <div className="d-flex justify-content-center gap-3">
                     <button className="btn btn-lg btn-outline-primary" type="button" >All Contacts</button>
