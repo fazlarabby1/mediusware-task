@@ -27,7 +27,6 @@ const Problem1 = () => {
     const showData = (show === 'all') ? data?.sort((a, b) => {
         return a.status.length - b.status.length
     }) : (data.filter(item => (item.status.toLowerCase() === show)));
-    console.log(showData);
 
     return (
 
